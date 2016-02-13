@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\gamepiecehandle.h(48): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\gamepiecehandle.h(51): warning C4244: "Initialisierung": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\gamepiecehandle.h(80): warning C4244: "=": Konvertierung von "const double" in "float", möglicher Datenverlust
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\main.cpp(275): warning C4244: "Initialisierung": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\main.cpp(424): warning C4244: "=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\main.cpp(425): warning C4244: "=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\main.cpp(429): warning C4244: "Initialisierung": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\main.cpp(430): warning C4244: "Initialisierung": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\main.cpp(432): warning C4244: "=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\main.cpp(433): warning C4244: "=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\gamepiecehandle.h(88): warning C4715: "GamePieceHandle::animate": Nicht alle Steuerelementpfade geben einen Wert zurück.
+LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+glew32s.lib(glew.obj) : warning LNK4099: PDB "vc120.pdb" wurde nicht mit "glew32s.lib(glew.obj)" oder an "C:\Users\Kai Kronenberg\documents\visual studio 2015\Projects\Sternenhalma\Debug\vc120.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+  Sternenhalma.vcxproj -> C:\Users\Kai Kronenberg\documents\visual studio 2015\Projects\Sternenhalma\Debug\Sternenhalma.exe

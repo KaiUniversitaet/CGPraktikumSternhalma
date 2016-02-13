@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\kai kronenberg\documents\visual studio 2015\projects\sternenhalma\sternenhalma\main.cpp(5): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "GL/glew.h": No such file or directory
